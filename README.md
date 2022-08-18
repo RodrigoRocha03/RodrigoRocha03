@@ -19,5 +19,4 @@
 
 ##
 
-## "O maior professor, o fracasso é"
-  <img align="center" alt="Rodrigo-Yoda" height="200" width="300" src="https://network.grupoabril.com.br/wp-content/uploads/sites/4/2020/02/desafio-jedi-de-mestre-yoda-consertar-as-frases-consegue-vocecc82.jpg?quality=100&amp;strip=info"/>   
+ 
