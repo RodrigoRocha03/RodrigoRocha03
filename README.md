@@ -12,7 +12,7 @@
 </div>
 <img align="center" alt="Rodrigo-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
 <img align="center" alt="Rodrigo-Mysql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>         
-
+<img align="center" alt="Rodrigo-Mysql" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
           
   
 </div> 
