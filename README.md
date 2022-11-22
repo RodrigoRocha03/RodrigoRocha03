@@ -17,6 +17,7 @@
 <img align="center" alt="Rodrigo-Mysql" height="50" width="50" src="https://cdn.worldvectorlogo.com/logos/git-bash.svg"/>
 <img align="center" alt="Rodrigo-Mysql" height="50" width="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
 <img align="center" alt="Rodrigo-Mysql" height="65" width="65" src="https://www.svgrepo.com/show/374111/swagger.svg"/>
+<img align="center" alt="Rodrigo-Mysql" height="57" width="57" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"/>
 </div> 
 
 ##
